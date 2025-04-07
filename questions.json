@@ -1,0 +1,79 @@
+[
+  {
+    "question": "Which of the following is NOT a place you typically find in a city? \n",
+"options": ["library", "skyscraper", "jungle", "museum"],
+    "correct": "jungle"
+  },
+  {
+    "question": "Unscramble the word <b>in bold</b> \n Social media platforms allow people to access global <b>ioorinfmatn</b> and connect with friends and family at a distance.",
+    "correct": "INFORMATION"
+  },
+  {
+    "question": "Complete the following idiom: \nBeauty is only ______  deep.",
+    "options": ["blood", "eye", "skin", "heart"],
+    "correct": "skin"
+  },
+  {
+    "question": "Complete the sentence with the correct form of the verb: \nI need to have my car (repair) ________ before the road trip.",
+    "correct": "REPAIRED"
+  },
+  {
+    "question": "Choose the correct form of the verb in brackets: \nThe government’s __________ (decide) on the new policy caused a lot of debates.",
+    "options": ["decided", "decisive", "decision", "decides"],
+    "correct": "decision"
+  },
+
+{
+  "question": "Complete the sentence with the correct verb form: \nIf he (not waste) so much time last year, he would have a better job now.",
+  "correct": "HAD NOT WASTED"
+}
+,
+  {
+    "question": "Listen and fill in the blank:\nThe speaker gives directions to the _____",
+    "image": "qto7.jpg",
+    "audio": "Direction.mp3",
+    "correct": " POST OFFICE"
+  },
+  {
+    "question": "Listen and choose the correct picture. \nWhat is Mia doing today?",
+    "image": "Q8.png",
+    "audio": "Question8.mp3",
+    "options": ["swim", "ride a bike", "dance"],
+    "correct": "ride a bike"
+  },
+  {
+    "question": "Listen to the song and fill in the blank\nI wanna come home to roses\nAnd dirty little notes on Post-its\nAnd when my hair starts turning gray\nHe'll say I'm like a fine wine, better with ___________",
+    "audio": "Question9.mp3",
+    "correct": "AGE"
+  },
+  {
+    "question": "Which brand has this slogan?\n'Just Do It'",
+    "correct": "NIKE"
+  },
+  {
+    "question": "Watch the video and anwer the question?\nWhere is it? ",
+   
+    "video": "HoiAn.mp4",
+    "correct": "HOI AN"
+  },
+  {
+    "question": "In the Windows operating system, which default function key we press when we want to refresh or reload a web page?",
+
+    "options": ["f4", "f5", "f9", "f12"],
+    "correct": "f5"
+  },
+  {
+    "question": "What day is October 20th every year?",
+    "correct": "VIETNAMESE WOMEN'S DAY"
+  },
+  {
+    "question": "Where will the 2026 FIFA World Cup be held?",
+    "options": ["france, england and mexico", "america, canada and mexico", "russia, canada and ameria", "indonesia, korea and china"],
+    "correct": "america, canada and mexico"
+  },
+  {
+    "question": "Re-order the conversation: \n(a) Cindy: Cool. What's the national costume?\n(b) Phong: It's Hanoi. It's a stunning city.\n(c) Cindy: Do you mind if I ask you some questions about Vietnam?\n(d) Phong: Sure!\n(e) Cindy: Thanks. What's the capital city of Vietnam?",
+    "options": ["e – b – a – d – a", "a – d – e – b – a", "c – d – e – b – a", "c – d – a – b – e"],
+    "correct": "c – d – e – b – a"
+  }
+]
