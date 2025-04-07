@@ -4,7 +4,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import io from 'socket.io-client';
 import "./QuizzApp.css";
 import isMobile from './isMobile';
-const socket = io('http://localhost:5000/');
+const socket = io('https://quiz-sv-final.onrender.com/');
 const avatars = [
   "/avatars/ICON-01.jpg",
   "/avatars/ICON-02.jpg",
